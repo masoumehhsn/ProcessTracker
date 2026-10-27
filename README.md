@@ -15,4 +15,7 @@ It reads process data from `/proc` and shows:
 cargo run
 ```
 
+![alt text](https://github.com/masoumehhsn/ProcessTracker/blob/main/Screenshot%20from%202026-10-23%2021-59-32.png)
+
+
 Requires a Linux system with `/proc` available.
